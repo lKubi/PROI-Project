@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1634629630 source:/home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/arquivo.cpp
+	<cstring>
+	"arquivo.h"
+	"doente.h"
+
+1634629630 /home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/arquivo.h
+	<iostream>
+	"estrutura.h"
+	<fstream>
+
+1634629189 /home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/estrutura.h
+
+1634629814 /home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/doente.h
+	"estrutura.h"
+
+1634629814 source:/home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/doente.cpp
+	<iostream>
+	<cstring>
+	"doente.h"
+	"util.h"
+
+1634629351 /home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/util.h
+
+1634630024 source:/home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/main.cpp
+	<iostream>
+	<cstring>
+	"estrutura.h"
+	"doente.h"
+	"util.h"
+	"arquivo.h"
+
+1634629630 source:/home/pepa/PROI/2021_2022_Galego/Practicas/Practicas_18_19_21_23_Proxecto/Enunciado/EsqueletoProxecto/util.cpp
+	<iostream>
+	"util.h"
+
+1669833443 source:c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\arquivo.cpp
+	<cstring>
+	"arquivo.h"
+	"doente.h"
+
+1669832497 c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\arquivo.h
+	<iostream>
+	"estrutura.h"
+	<fstream>
+
+1668789329 c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\estrutura.h
+
+1669831250 c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\doente.h
+	"estrutura.h"
+
+1669831757 source:c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\doente.cpp
+	<iostream>
+	<cstring>
+	"doente.h"
+	"util.h"
+	"estrutura.h"
+
+1668789329 c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\util.h
+
+1669832488 source:c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\main.cpp
+	<iostream>
+	<cstring>
+	"estrutura.h"
+	"doente.h"
+	"util.h"
+	"arquivo.h"
+
+1668789329 source:c:\users\lfpmoure_esei.uvigo\music\luis\esqueletoproxecto\util.cpp
+	<iostream>
+	"util.h"
+
+1669847482 source:c:\users\scoby\desktop\esqueletoproxecto\arquivo.cpp
+	<cstring>
+	"arquivo.h"
+	"doente.h"
+
+1669847482 c:\users\scoby\desktop\esqueletoproxecto\arquivo.h
+	<iostream>
+	"estrutura.h"
+	<fstream>
+
+1669847482 c:\users\scoby\desktop\esqueletoproxecto\estrutura.h
+
+1669847482 c:\users\scoby\desktop\esqueletoproxecto\doente.h
+	"estrutura.h"
+
+1669847482 source:c:\users\scoby\desktop\esqueletoproxecto\doente.cpp
+	<iostream>
+	<cstring>
+	"doente.h"
+	"util.h"
+	"estrutura.h"
+
+1669847482 c:\users\scoby\desktop\esqueletoproxecto\util.h
+
+1669847482 source:c:\users\scoby\desktop\esqueletoproxecto\main.cpp
+	<iostream>
+	<cstring>
+	"estrutura.h"
+	"doente.h"
+	"util.h"
+	"arquivo.h"
+
+1669847482 source:c:\users\scoby\desktop\esqueletoproxecto\util.cpp
+	<iostream>
+	"util.h"
+
